@@ -1,20 +1,19 @@
 ## Pour commencer
 
 Bienvenue! Voici tous les codes des tutoriels à votre entière disposition!
-Si vous avez des problèmes, questions ou autres, n'hésitez pas à me contacter
-directement via mon instagram: [@demetlegal](https://www.instagram.com/demetlegal/)
+> Si vous avez des problèmes, questions ou autres, n'hésitez pas à me contacter directement via mon instagram: [@demetlegal](https://www.instagram.com/demetlegal/)
 
 ## Organisation
 
-J'ai réparti en fonction des domaines:
+J'ai tous réparti en fonction des domaines:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `Py`: Le Python sur différents niveaux de difficultés `1-5`
+- `JS`: Le Javascript pour le developpement web sur différents niveaux de difficultés `1-5`
+- `HTML`: Le HTML sur différents niveaux de difficultés `1-3`
+- `CSS`: Le CSS sur différents niveaux de difficultés `1-5`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+> Vous aurez plus d'infos dans ces dossiers, l'utilité du language etc.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Mais également d'autres choses comme:
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Le Binaire
