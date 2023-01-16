@@ -1,11 +1,11 @@
 ## Pour commencer
 
-Bienvenue! Voici tous les codes des tutoriels à votre entière disposition!
+Bienvenu! Voici tous les codes des tutoriels à votre entière disposition!
 > Si vous avez des problèmes, questions ou autres, n'hésitez pas à me contacter directement via mon instagram: [@demetlegal](https://www.instagram.com/demetlegal/)
 
 ## Organisation
 
-J'ai tous réparti en fonction des domaines:
+J'ai tous répartis en fonction des domaines:
 
 - `Py`: Le Python sur différents niveaux de difficultés `1-5`
 - `JS`: Le Javascript pour le developpement web sur différents niveaux de difficultés `1-5`
