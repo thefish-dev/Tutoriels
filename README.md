@@ -1,10 +1,12 @@
 ## Pour commencer
 
 Bienvenue! Voici tous les codes des tutoriels à votre entière disposition!
+Si vous avez des problèmes, questions ou autres, n'hésitez pas à me contacter
+directement via mon instagram: [@demetlegal](https://www.instagram.com/demetlegal/)
 
 ## Organisation
 
-J'ai réparti en fonction des domaine:
+J'ai réparti en fonction des domaines:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
