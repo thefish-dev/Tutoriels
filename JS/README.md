@@ -20,3 +20,5 @@ mais ce ne sera pas au programme, navré :(
 Je vous conseille de tous faire dans l'ordre des difficultés car c'est un language particulièrement complexe.
 Si je devais le noter sur une échelle de 1 à 10, il serait facilement à 6 ou 7 voire plus.
 Et c'est mieux d'assez bien gérer le `Python` pour mieux comprendre le JS, c'est mon humble avis!
+
+Bonne chance!
