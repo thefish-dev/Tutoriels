@@ -3,7 +3,7 @@
 ## Avant de commencer
 
 Tout d'abord, mes tutoriels sur le `JS` vont porter sur un seul domaine en particulier: Le developpement web.
-Ici nous allons voir sur une échelle de 1 à 5 en matière de difficulté les propriétés du JavaScript, 
+Ici nous allons voir sur une échelle de 0 à 5 en matière de difficulté les propriétés du JavaScript, 
 son utilité et c'est à peu près tous :)
 
 > Si vous ne comprenez pas certaines choses, n'hésitez pas à me poser des questions
@@ -21,6 +21,6 @@ mais ce ne sera pas au programme, navré :(
 
 Je vous conseille de tous faire dans l'ordre des difficultés car c'est un language particulièrement complexe.
 Si je devais le noter sur une échelle de 1 à 10, il serait facilement à 6 ou 7 voire plus.
-Et c'est mieux d'assez bien gérer le `Python` pour mieux comprendre le JS, c'est mon humble avis!
+Et c'est mieux d'assez bien gérer le `Python` et le `HTML` pour mieux comprendre le JS, c'est mon humble avis!
 
 Bonne chance!

@@ -14,7 +14,7 @@ Vous pouvez également "print" des messages en les affichant sur la page avec la
 ## Les variables
 
 Les variables vous permettent de définir un bon nombre d'information et de donné pour votre page web. Elles sont essentielles et nous allons voir les différents types de variable que nous pouvons trouver en JS:
-- Les variable `var` sont **modifiables** et `globales` au sein d'une fonction. (exemples dans `Niveau0/index.js`)
+- Les variable `var` sont **modifiables** et `globales` au sein d'une fonction. (exemples dans `index.js`)
 - Les variables `let` sont **modifiables** et `locales` au sein d'un block, elles ne peuvent pas être utilisées en dehors d'un block fonction.
 - Les variables `const` sont **non modifiables** ("const" = "constantes") et `locales`. Elles sont les plus utilisées et les plus suggérées.
 
