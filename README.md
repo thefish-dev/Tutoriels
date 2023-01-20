@@ -1,3 +1,5 @@
+# Tutoriels
+
 ## Pour commencer
 
 Bienvenu! Voici tous mes tutoriels à votre entière disposition!
@@ -7,10 +9,10 @@ Bienvenu! Voici tous mes tutoriels à votre entière disposition!
 
 J'ai tous répartis en fonction des domaines:
 
-- `Py`: Le Python sur différents niveaux de difficultés `1-5`
-- `JS`: Le Javascript pour le developpement web sur différents niveaux de difficultés `1-5`
-- `HTML`: Le HTML sur différents niveaux de difficultés `1-3`
-- `CSS`: Le CSS sur différents niveaux de difficultés `1-5`
+- `Py`: Le Python sur différents niveaux de difficultés `0-5`
+- `JS`: Le Javascript pour le developpement web sur différents niveaux de difficultés `0-5`
+- `HTML`: Le HTML sur différents niveaux de difficultés `0-3`
+- `CSS`: Le CSS sur différents niveaux de difficultés `0-5`
 
 > Vous aurez plus d'infos dans ces dossiers, l'utilité du language etc.
 
