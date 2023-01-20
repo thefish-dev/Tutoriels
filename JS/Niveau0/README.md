@@ -36,7 +36,7 @@ Fonction("Hello World!"); // Et sont appellées comme cela
 ```
 Elles peuvent même tenir en une seule ligne..même si c'est déconseillé:
 ```javascript
-function Fonction(arg) { console.log(arg); alert(arg); } // Ne surtout pas oublier de mettre les ";" après chaque fonction.
+function Fonction(arg) { console.log(arg); alert(arg); } // Ne surtout pas oublier de mettre les ";" après chaque actions.
 ```
 
 ## Les conditions
