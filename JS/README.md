@@ -12,7 +12,7 @@ son utilité et c'est à peu près tous :)
 Le JavaScript est un language d'éxécution pour les sites web. Ce language peut servir à faire n'importe quelle action
 contrairement au HTML qui va juste donner du contenu à votre page.
 Vous pouvez utiliser le JavaScript pour changer l'apparence, la taille, la visibilité d'un élément..tous!
-Vous pouvez même créer des éléments! Il y a même des language de code comme le `React` avec le `JSX` qui combine JavaScript et HTML..
+Vous pouvez même créer des éléments! Il y a notamment des language de code comme le `React` avec le `JSX` qui combine JavaScript et HTML..
 mais ce ne sera pas au programme, navré :(
 
 ## Vous pouvez commencer!
