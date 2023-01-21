@@ -80,7 +80,7 @@ if (condition) {
 ## Lier HTML et JavaScript
 Enfin nous entrons dans le vif du sujet! Et oui, nous allons voir comment exécuter des fonctions JS à partir de notre page HTML.
 Tout d'abord, commençons avec des `<button>`. 
-> (codes complets dans `index.html` et `index.js`)
+> (codes complets dans [index.html](https://github.com/legeek-glitch/Tutoriels/blob/main/JS/Niveau0/index.html) et [index.js](https://github.com/legeek-glitch/Tutoriels/blob/main/JS/Niveau0/index.js))
 
 Créons une fonction simple pour changer le texte du titre `<h1>` qui aura pour `id` "titre", afin de l'identifier avec notre JavaScript.
 
