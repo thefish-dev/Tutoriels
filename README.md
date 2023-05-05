@@ -10,7 +10,7 @@ Bienvenu! Voici tous mes tutoriels à votre entière disposition!
 J'ai tous répartis en fonction des domaines:
 
 - `Py`: Le Python sur différents niveaux de difficultés `0-5`
-- `JS`: Le Javascript pour le developpement web sur différents niveaux de difficultés `0-5`
+- `JS`: Le Javascript pour le developpement web sur différents niveaux de difficultés `0-5` [Tutoriels](https://github.com/thefish-dev/Tutoriels/tree/main/JS)
 - `HTML`: Le HTML sur différents niveaux de difficultés `0-3`
 - `CSS`: Le CSS sur différents niveaux de difficultés `0-5`
 
